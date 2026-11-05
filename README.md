@@ -1,6 +1,6 @@
 # opencv-for-Beaglebone
 
-These are the binaries that I built on my beaglebone black `armv7l`. You can do `apt install` but it only comes with opencv3.2. Apparently I don't find anything like this anywhere (maybe I didn't look hard enough), and somebody (you know you who are) suggested I should post it here so here we are. It took me a *couple* of hours so I thought I might as well document it
+These are the binaries that I built on my beaglebone black `armv7l`. You can do `apt install` but it only comes with opencv3.2. Apparently I don't find anything like this anywhere (maybe I didn't look hard enough). It took me many a hours to get it working, so I might as well document it
 
 If you want to you it with `python3.7` that comes with the board, there are some extra steps. Check `python3.7 -m site` to see where the `USER_SITE` is.
 
